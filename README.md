@@ -1,2 +1,1 @@
-# WalletTestnetInterfaceEngineNext
-Advanced WalletTestnetInterfaceEngineNext project
+.
